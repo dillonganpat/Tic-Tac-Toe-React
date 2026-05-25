@@ -1,18 +1,14 @@
-# Tic Tac Toe
+# ⭕ Tic Tac Toe
 
 A simple Tic Tac Toe game built with React, HTML, CSS, and JavaScript.
 
-## Installation
-
-Clone the repo and install dependencies:
+## 📦 Installation
 
 ```bash
 npm install
 ```
 
-## Running the Game
-
-Start the development server:
+## 🚀 Running the Game
 
 ```bash
 npm start
@@ -20,16 +16,16 @@ npm start
 
 Open `http://localhost:3000` in your browser.
 
-## How to Play
+## 🎮 How to Play
 
-- Click any empty square to place your mark (X or O)
-- Players alternate turns
-- Get three in a row (horizontal, vertical, or diagonal) to win
-- Click "Reset" to start over
+- 🖱️ Click a square to place your mark
+- 🔄 X and O alternate turns
+- 🏆 First to get three in a row wins
+- 🔁 Click restart to play again
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- React
-- JavaScript
-- CSS
-- HTML
+- ⚛️ React
+- 📝 JavaScript
+- 🎨 CSS
+- 🌐 HTML
